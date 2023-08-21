@@ -11,9 +11,9 @@ This GitHub repository contains my exploratory data analysis (EDA) project on Gr
 * Dataset
 * Notebooks
 * Installation
-* Usage
-* Contributions
-* License
+* Libraries used
+
+
 
 
 **Project Overview**
